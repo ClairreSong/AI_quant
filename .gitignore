@@ -1,0 +1,17 @@
+# WorkBuddy internal
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+*.cache
+hk_cache.json
